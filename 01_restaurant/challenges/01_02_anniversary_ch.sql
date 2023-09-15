@@ -9,4 +9,4 @@
 create table AnniversaryAttendees (
   CustomerID INTEGER,
   PartySize INTEGER
-)
+);
